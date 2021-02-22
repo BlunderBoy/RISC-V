@@ -14,6 +14,6 @@ addi x1,x1,1
 and x3,x1,x2
 ori x4,x1,1 
 sw x4,4(x5)
-lw x12,8(x0)
+lw x12,8(x0)  
 beq	x18,x0,5c
 ```
